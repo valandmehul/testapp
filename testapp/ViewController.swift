@@ -125,10 +125,7 @@ class ViewController: UIViewController {
         printvalue(setify([5, 7, 8, 9, 10, 15]))
         printvalue(existsHigher([4, 3, 3, 3, 2, 2], 4))
         printvalue("mehul")
-        printvalue("mehul")
-        printvalue("mehul")
-        printvalue("mehul")
-        printvalue("mehul")
+        
     }
     
     override func viewDidLoad() {
